@@ -14,5 +14,6 @@ Cancer classification is a critical task in the field of medical diagnostics. Th
 The dataset used for this project contains features extracted from cancer cell nuclei, such as radius, texture, perimeter, area, and smoothness. It is a clean and labeled dataset suitable for binary classification.
 * Source: [Kaggle](https://www.kaggle.com/)
 * DATASET: Available above
+* The above dataset contains required data for the project
 # Acknowledgments
 Thanks to Kaggle for providing the dataset and to the open-source community for tools and resources.
