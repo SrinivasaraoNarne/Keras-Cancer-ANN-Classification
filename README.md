@@ -3,9 +3,10 @@
 ## Introduction
 This repository contains a deep learning project focused on classifying cancer types using Artificial Neural Networks (ANN). Implemented in Python with Keras, the project demonstrates how deep learning techniques can be applied to binary classification tasks in medical diagnostics.
 
-# Overview
-Cancer classification is a critical task in the field of medical diagnostics. This project utilizes a dataset containing features extracted from cancer cells to predict whether the cells are benign or malignant. The model is built using a Sequential ANN architecture in Keras and is trained on the labeled dataset to achieve accurate predictions.
-# Features
+## Overview
+Cancer classification plays a vital role in medical diagnostics, aiding in the early detection and treatment of the disease. This project utilizes a dataset containing extracted features from cancer cells to predict whether they are benign or malignant. The model is built using a Sequential ANN architecture in Keras and is trained on labeled medical data to optimize prediction accuracy.
+
+## Features
   * Data Preprocessing: Handles missing values, categorical encoding, and feature scaling for optimal model performance.
   * ANN Architecture:
     * Input Layer: Accepts multiple features of the dataset.
