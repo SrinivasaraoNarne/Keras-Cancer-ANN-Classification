@@ -15,10 +15,10 @@ Cancer classification plays a vital role in medical diagnostics, aiding in the e
 - **Performance Metrics**: Evaluates model performance using accuracy, precision, recall, F1-score, and confusion matrix.
 - **Visualization**: Provides insights through loss and accuracy plots during training and testing phases.
 
-# Dataset
+## Dataset
 The dataset used for this project contains features extracted from cancer cell nuclei, such as radius, texture, perimeter, area, and smoothness. It is a clean and labeled dataset suitable for binary classification.
 * Source: [Kaggle](https://www.kaggle.com/)
 * DATASET: Available above
-* The above dataset contains required data for the project, a dataset of samples with 30 feature attributes.
-# Acknowledgments
-Thanks to Kaggle for providing the dataset and to the open-source community for tools and resources.
+* DATASET DETAILS: The above dataset contains required data for the project, a dataset of samples with 30 feature attributes.
+## Acknowledgments
+A special thanks to Kaggle for providing the dataset and to the open-source community for developing tools and frameworks that enable machine learning research and applications.
