@@ -7,13 +7,13 @@ This repository contains a deep learning project focused on classifying cancer t
 Cancer classification plays a vital role in medical diagnostics, aiding in the early detection and treatment of the disease. This project utilizes a dataset containing extracted features from cancer cells to predict whether they are benign or malignant. The model is built using a Sequential ANN architecture in Keras and is trained on labeled medical data to optimize prediction accuracy.
 
 ## Features
-**Data Preprocessing**: Handles missing values, categorical encoding, and feature scaling to enhance model performance.
-**ANN Architecture**:
-  **Input Layer**: Processes multiple features from the dataset.
-  **Hidden Layers**: Fully connected dense layers with ReLU activation for efficient feature extraction.
-  **Output Layer**: Sigmoid activation for binary classification.
-**Performance Metrics**: Evaluates model performance using accuracy, precision, recall, F1-score, and confusion matrix.
-**Visualization**: Provides insights through loss and accuracy plots during training and testing phases.
+* Data Preprocessing: Handles missing values, categorical encoding, and feature scaling to enhance model performance.
+* ANN Architecture:
+  * Input Layer: Processes multiple features from the dataset.
+  * Hidden Layers: Fully connected dense layers with ReLU activation for efficient feature extraction.
+  * Output Layer: Sigmoid activation for binary classification.
+* Performance Metrics: Evaluates model performance using accuracy, precision, recall, F1-score, and confusion matrix.
+* Visualization: Provides insights through loss and accuracy plots during training and testing phases.
 
 ## Dataset
 The dataset used for this project contains features extracted from cancer cell nuclei, such as radius, texture, perimeter, area, and smoothness. It is a clean and labeled dataset suitable for binary classification.
